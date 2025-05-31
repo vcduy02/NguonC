@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.nguonc.NguonCProvider-release-31:/layout-v26/mtrl_calendar_month.xml",
+        "source": "com.nguonc.NguonCProvider-material-1.12.0-17:/layout-v26/mtrl_calendar_month.xml"
+    },
+    {
+        "merged": "com.nguonc.NguonCProvider-release-31:/layout-v26/abc_screen_toolbar.xml",
+        "source": "com.nguonc.NguonCProvider-appcompat-1.6.1-24:/layout-v26/abc_screen_toolbar.xml"
+    }
+]

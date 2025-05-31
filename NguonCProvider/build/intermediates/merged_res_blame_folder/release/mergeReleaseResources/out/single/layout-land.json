@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.nguonc.NguonCProvider-release-31:/layout-land/mtrl_picker_header_dialog.xml",
+        "source": "com.nguonc.NguonCProvider-material-1.12.0-17:/layout-land/mtrl_picker_header_dialog.xml"
+    },
+    {
+        "merged": "com.nguonc.NguonCProvider-release-31:/layout-land/material_timepicker.xml",
+        "source": "com.nguonc.NguonCProvider-material-1.12.0-17:/layout-land/material_timepicker.xml"
+    },
+    {
+        "merged": "com.nguonc.NguonCProvider-release-31:/layout-land/material_clock_period_toggle_land.xml",
+        "source": "com.nguonc.NguonCProvider-material-1.12.0-17:/layout-land/material_clock_period_toggle_land.xml"
+    }
+]

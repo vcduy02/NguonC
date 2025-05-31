@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 8.7.3" type="conditional_incidents">
+
+    <incident
+        id="ObsoleteSdkInt"
+        severity="warning"
+        message="Unnecessary; SDK_INT is always >= 23">
+        <fix-replace
+            description="Delete @RequiresApi"
+            replacement=""
+            priority="0">
+            <range
+                file="${:NguonCProvider*debug*MAIN*sourceProvider*0*javaDir*2}/com/nguonc/BlankFragment.kt"
+                startOffset="2342"
+                endOffset="2377"/>
+        </fix-replace>
+        <location
+            file="${:NguonCProvider*debug*MAIN*sourceProvider*0*javaDir*2}/com/nguonc/BlankFragment.kt"
+            line="62"
+            column="5"
+            startOffset="2342"
+            endLine="62"
+            endColumn="40"
+            endOffset="2377"/>
+        <map>
+            <condition minGE="ffffffffffc00000"/>
+        </map>
+    </incident>
+
+</incidents>

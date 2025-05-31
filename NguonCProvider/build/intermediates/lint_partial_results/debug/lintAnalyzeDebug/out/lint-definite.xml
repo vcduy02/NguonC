@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 8.7.3" type="incidents">
+
+    <incident
+        id="GradleDependency"
+        severity="warning"
+        message="A newer version of androidx.recyclerview:recyclerview than 1.3.2 is available: 1.4.0">
+        <fix-replace
+            description="Change to 1.4.0"
+            family="Update versions"
+            oldString="1.3.2"
+            replacement="1.4.0"
+            priority="0"/>
+        <location
+            file="${:NguonCProvider*projectDir}/build.gradle.kts"
+            line="15"
+            column="20"
+            startOffset="258"
+            endLine="15"
+            endColumn="62"
+            endOffset="300"/>
+    </incident>
+
+</incidents>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.nguonc.NguonCProvider-release-31:/layout-v21/notification_template_custom_big.xml",
+        "source": "com.nguonc.NguonCProvider-core-1.13.0-20:/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "com.nguonc.NguonCProvider-release-31:/layout-v21/notification_action_tombstone.xml",
+        "source": "com.nguonc.NguonCProvider-core-1.13.0-20:/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "com.nguonc.NguonCProvider-release-31:/layout-v21/notification_template_icon_group.xml",
+        "source": "com.nguonc.NguonCProvider-core-1.13.0-20:/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "com.nguonc.NguonCProvider-release-31:/layout-v21/notification_action.xml",
+        "source": "com.nguonc.NguonCProvider-core-1.13.0-20:/layout-v21/notification_action.xml"
+    }
+]

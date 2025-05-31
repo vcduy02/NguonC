@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 8.7.3" type="partial_results">
+    <map id="UnusedResources">
+        <location id="R.drawable.ic_android_24dp"
+            file="${:NguonCProvider*debug*MAIN*sourceProvider*0*resDir*0}/drawable/ic_android_24dp.xml"
+            line="1"
+            column="1"
+            startOffset="0"
+            endLine="5"
+            endColumn="10"
+            endOffset="582"/>
+        <location id="R.layout.fragment_blank"
+            file="${:NguonCProvider*debug*MAIN*sourceProvider*0*resDir*0}/layout/fragment_blank.xml"
+            line="2"
+            column="1"
+            startOffset="40"
+            endLine="43"
+            endColumn="16"
+            endOffset="1521"/>
+        <location id="R.string.hello_fragment"
+            file="${:NguonCProvider*debug*MAIN*sourceProvider*0*resDir*0}/values/strings.xml"
+            line="3"
+            column="13"
+            startOffset="65"
+            endLine="3"
+            endColumn="34"
+            endOffset="86"/>
+        <location id="R.string.loaded_from_app_trans"
+            file="${:NguonCProvider*debug*MAIN*sourceProvider*0*resDir*0}/values/strings.xml"
+            line="4"
+            column="13"
+            startOffset="132"
+            endLine="4"
+            endColumn="41"
+            endOffset="160"/>
+        <entry
+            name="model"
+            string="attr[white(R)],color[white(R)],drawable[ic_android_24dp(D)],id[mainFragmentLayout(D),textView(D),textView2(D),imageView(D),imageView2(D)],layout[fragment_blank(D)],string[hello_fragment(D),loaded_from_app_trans(D),legal_notice_text(R)],style[ResultInfoText(R)];8^9^a^2;;;"/>
+    </map>
+
+</incidents>
